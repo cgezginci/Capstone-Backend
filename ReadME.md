@@ -1,6 +1,6 @@
 # Veteriner Yönetim Sistemi API
 
-Bu proje, bir veteriner kliniği yönetim sisteminin RESTful API'sini sunmaktadır.
+Bu proje, bir veteriner kliniği yönetim sisteminin REST API'sini sunmaktadır.
 
 ![uml.png](./vetManagementSystem/assets/uml.png)
 
