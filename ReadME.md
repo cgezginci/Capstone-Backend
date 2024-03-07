@@ -2,9 +2,7 @@
 
 Bu proje, bir veteriner kliniği yönetim sisteminin RESTful API'sini sunmaktadır.
 
-
-
-![Ekran Görüntüsü (113).png](vetManagementSystem%2Fassets%2FEkran%20G%F6r%FCnt%FCs%FC%20%28113%29.png)
+![UML](C:\Users\cgezg\IdeaProjects\Patika\Hafta-11\vetManagementSystem\vetManagementSystem\assets\uml.png)
 
 
 
