@@ -74,4 +74,16 @@ Bu proje, bir veteriner kliniği yönetim sisteminin RESTful API'sini sunmaktad�
 * Aynı isme sahip bir aşı eklemek için aşının koruma gününün geçmiş olması gerekmektedir.
 * Doktora randevu ekleyebilmek için o gün müsait olmalı ve o saatte başka bir randevusu olmamalıdır.
 
+## Teknolojiler
+* Java 
+* Spring Boot
+* Maven
+* MySQL
+* REST API
+* Swagger
+* Postman
+* IntelliJ IDEA
+* Git
+* GitHub
+
 
